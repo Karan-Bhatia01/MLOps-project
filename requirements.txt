@@ -1,5 +1,6 @@
-numpy 
-pandas 
+numpy
+pandas
 matplotlib
 seaborn
 scikit-learn
+-e .
